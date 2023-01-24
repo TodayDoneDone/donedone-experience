@@ -29,7 +29,7 @@
   - Reference: [#1](https://stackify.com/premature-optimization-evil/) [#2](https://softwareengineering.stackexchange.com/questions/80084/is-premature-optimization-really-the-root-of-all-evil)
 - 오버 엔지니어링을 피합니다.
   - 불필요한 추가 개발은 코드베이스의 복잡도를 증가시키고 코드 유지보수에 추가 비용을 초래합니다. 
-  - 만약 지루함에서 오는 오버 엔지니어링(흥미로운 도전의 결과)이라면 안드로이드 개발팀 모두에게 새로운 경험인 [린트 개발](https://cosmos.donedone.me)에 참여하여 해소할 수 있습니다.
+  - 만약 지루함에서 오는 오버 엔지니어링(흥미로운 도전의 결과)이라면 안드로이드 개발팀 모두에게 새로운 경험인 [린트 개발](https://github.com/TodayDoneDone/writing-cosmos)에 참여하여 해소할 수 있습니다.
   - 진행하려는 개발이 [DEEP](https://deep.donedone.me/) 에서 논의 완료된 부분인지 확인해야 합니다.
   - Reference: [#1](https://en.wikipedia.org/wiki/Overengineering) [#2](https://www.mindtheproduct.com/overengineering-can-kill-your-product/)
 - 코드베이스의 90% 이상을 파악하고 있어야 합니다. (세부 구현 방법까지는 불필요, 단순히 파악에만 의의를 둠)
