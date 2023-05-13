@@ -1,0 +1,29 @@
+site_name: DoneDone-Experience
+site_url: https://experience.donedone.me/
+site_author: Ji Sungbin
+site_description: 던던은 모든 영역에서 최고의 경험을 제공하고자 합니다.
+
+repo_name: donedone-experience
+repo_url: https://github.com/TodayDoneDone/donedone-experience
+
+edit_uri: edit/main/docs/
+
+copyright: Copyright &copy; 2023 DoneDone
+
+theme:
+  name: material
+  language: ko
+  palette:
+    primary: custom
+  font:
+    text: Noto Sans KR
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - content.action.edit
+
+plugins: [] # disable search-bar
+
+extra_css:
+  - stylesheets/extra.css
