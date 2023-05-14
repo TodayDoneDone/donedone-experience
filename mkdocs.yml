@@ -1,7 +1,7 @@
-site_name: DoneDone-Experience
+site_name: DoneDone Experience
 site_url: https://experience.donedone.me/
 site_author: Ji Sungbin
-site_description: 던던은 모든 영역에서 최고의 경험을 제공하고자 합니다.
+site_description: 던던팀은 우리 모두에게 최고의 경험을 제공하고자 합니다.
 
 repo_name: donedone-experience
 repo_url: https://github.com/TodayDoneDone/donedone-experience
@@ -23,7 +23,11 @@ theme:
   features:
     - content.action.edit
 
-plugins: [] # disable search-bar
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+
+plugins: [] # disable searchbar
 
 extra_css:
   - stylesheets/extra.css
